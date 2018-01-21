@@ -1,0 +1,26 @@
+[
+ {
+  "IconLock": "s_icon_hero_attack_lock", 
+  "Name": "英雄1", 
+  "Detail": "英雄说明1", 
+  "IconOn": "s_icon_hero_attack", 
+  "GetDetail": "英雄获得途径1", 
+  "ID": 1.0
+ }, 
+ {
+  "IconLock": "s_icon_hero_life_lock", 
+  "Name": "英雄2", 
+  "Detail": "英雄说明2", 
+  "IconOn": "s_icon_hero_life", 
+  "GetDetail": "英雄获得途径2", 
+  "ID": 2.0
+ }, 
+ {
+  "IconLock": "s_icon_hero_range_lock", 
+  "Name": "英雄3", 
+  "Detail": "英雄说明3", 
+  "IconOn": "s_icon_hero_range", 
+  "GetDetail": "英雄获得途径3", 
+  "ID": 3.0
+ }
+]

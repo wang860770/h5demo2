@@ -1,0 +1,50 @@
+[
+ {
+  "IconLock": "s_icon_magic_blade_lock", 
+  "Name": "魂1", 
+  "Detail": "魂说明1", 
+  "IconOn": "s_icon_soul_0", 
+  "GetDetail": "魂获得途径1", 
+  "ID": 1.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_power_lock", 
+  "Name": "魂2", 
+  "Detail": "魂说明2", 
+  "IconOn": "s_icon_soul_1", 
+  "GetDetail": "魂获得途径2", 
+  "ID": 2.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_pull_lock", 
+  "Name": "魂3", 
+  "Detail": "魂说明3", 
+  "IconOn": "s_icon_soul_2", 
+  "GetDetail": "魂获得途径3", 
+  "ID": 3.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_revive_lock", 
+  "Name": "魂4", 
+  "Detail": "魂说明4", 
+  "IconOn": "s_icon_soul_3", 
+  "GetDetail": "魂获得途径4", 
+  "ID": 4.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_shield_lock", 
+  "Name": "魂5", 
+  "Detail": "魂说明5", 
+  "IconOn": "s_icon_soul_4", 
+  "GetDetail": "魂获得途径5", 
+  "ID": 5.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_stone_lock", 
+  "Name": "魂6", 
+  "Detail": "魂说明6", 
+  "IconOn": "s_icon_soul_vip", 
+  "GetDetail": "魂获得途径6", 
+  "ID": 6.0
+ }
+]

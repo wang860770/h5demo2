@@ -1,0 +1,66 @@
+[
+ {
+  "IconLock": "s_icon_magic_blade_lock", 
+  "Name": "魔法1", 
+  "Detail": "魔法说明1", 
+  "IconOn": "s_icon_magic_blade", 
+  "GetDetail": "魔法获得途径1", 
+  "ID": 1.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_power_lock", 
+  "Name": "魔法2", 
+  "Detail": "魔法说明2", 
+  "IconOn": "s_icon_magic_power", 
+  "GetDetail": "魔法获得途径2", 
+  "ID": 2.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_pull_lock", 
+  "Name": "魔法3", 
+  "Detail": "魔法说明3", 
+  "IconOn": "s_icon_magic_pull", 
+  "GetDetail": "魔法获得途径3", 
+  "ID": 3.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_revive_lock", 
+  "Name": "魔法4", 
+  "Detail": "魔法说明4", 
+  "IconOn": "s_icon_magic_revive", 
+  "GetDetail": "魔法获得途径4", 
+  "ID": 4.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_shield_lock", 
+  "Name": "魔法5", 
+  "Detail": "魔法说明5", 
+  "IconOn": "s_icon_magic_shield", 
+  "GetDetail": "魔法获得途径5", 
+  "ID": 5.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_stone_lock", 
+  "Name": "魔法6", 
+  "Detail": "魔法说明6", 
+  "IconOn": "s_icon_magic_stone", 
+  "GetDetail": "魔法获得途径6", 
+  "ID": 6.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_time_lock", 
+  "Name": "魔法7", 
+  "Detail": "魔法说明7", 
+  "IconOn": "s_icon_magic_time", 
+  "GetDetail": "魔法获得途径7", 
+  "ID": 7.0
+ }, 
+ {
+  "IconLock": "s_icon_magic_zombie_lock", 
+  "Name": "魔法8", 
+  "Detail": "魔法说明8", 
+  "IconOn": "s_icon_magic_zombie", 
+  "GetDetail": "魔法获得途径8", 
+  "ID": 8.0
+ }
+]
